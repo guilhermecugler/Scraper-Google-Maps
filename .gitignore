@@ -7,3 +7,4 @@ window.py
 window_main.spec
 *.csv
 *.xlsx
+chromedriver.exe
