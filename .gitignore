@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+build/
+dist/
+pyinstaller/
+window.py
+window_main.spec
+*.csv
+*.xlsx
